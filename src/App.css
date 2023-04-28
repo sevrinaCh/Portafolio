@@ -1,0 +1,32 @@
+.header{
+    text-align: center;
+    background-color: #171717;
+    border: none;
+    color: white;
+}
+.contact{
+    background-color: #61d8e7;
+    border: none;
+    color: rgb(12, 11, 11);
+}
+
+.project{
+    background-color: #0be44c;
+    border: none;
+    color: rgb(15, 15, 15);
+    
+}
+.skill{
+    
+    background-color: #340985;
+    border: none;
+    color: rgb(235, 223, 223);
+    
+}
+.education{
+    
+    background-color: #340985;
+    border: none;
+    color: rgb(235, 223, 223);
+    
+}
